@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Skip Intro\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+### SETTINGS
+
+msgctxt "#30500"
+msgid "General"
+msgstr ""
+
+### General
+
+msgctxt "#30510"
+msgid "Display Time"
+msgstr ""
+
+msgctxt "#30511"
+msgid "Enable For TV Shows"
+msgstr ""
+
+msgctxt "#30512"
+msgid "Enable For Movies"
+msgstr ""
+
+### TV Shows
+
+msgctxt "#30520"
+msgid "Opening Credits name to match"
+msgstr ""
+
+msgctxt "#30521"
+msgid "End Credits name to match"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Skip Intro"
+msgstr "Skip Intro"

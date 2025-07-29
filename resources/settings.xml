@@ -1,0 +1,13 @@
+<settings>
+  <category label="30500">
+    <setting label="30510" type="number" id="message_close_time" default="5"/>
+    <setting label="30511" type="bool" id="enable_tvshow" default="true"/>
+    <setting label="30512" type="bool" id="enable_movies" default="true"/>
+  </category>
+  <category label="TV Shows">
+    <setting label="30520" type="text" id="chapter_keyword" default="Opening" />
+    <setting label="30521" type="text" id="ending_keyword" default="Ending" />
+    <setting id="enable_autoskip" type="bool" label="Enable Auto-Skip" default="true" />
+    <setting id="autoskip_delay" type="number" label="Auto-Skip Delay (seconds)" default="10" />
+  </category>
+</settings>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+    <defaultcontrol always="true">100</defaultcontrol>
+    <controls>
+        <!-- Pure image - no text elements whatsoever -->
+        <control type="image" id="100">
+            <posx>1400</posx>
+            <posy>850</posy>
+            <width>400</width>
+            <height>120</height>
+            <texture>skip-button.png</texture>
+            <aspectratio>keep</aspectratio>
+        </control>
+    </controls>
+</window>
